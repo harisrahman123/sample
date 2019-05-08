@@ -3,4 +3,4 @@ just as a sample file
 
 Just a Sample file for git 
 
-I am sample
+I am sample greetings to all
